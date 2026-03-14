@@ -4,7 +4,7 @@ onload = () => {
     document.body.classList.remove("not-loaded");
 
     const titles = (Selamat Menapaki Usia Baru, 
-                    Romo Toto! Berkah dalem.).split('')
+                    Romo Toto! Berkah dalem :).).split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
